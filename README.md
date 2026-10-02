@@ -31,6 +31,7 @@ $$\Delta L \approx \frac{1.55}{2 \times 2.4} \approx 0.323\mu m$$
 또한 이 구조의 파장 응답은 Ring Resonator의 FSR과 유사한 주기성을 가지며, 다음과 같이 예측할 수 있습니다.  
   
 $$FSR_{MZI} \approx \frac{\lambda^2}{n_{eff} \cdot \Delta L} \approx \frac{1.55^2}{2.4 \times 0.32} \approx 3130nm$$  
+  
 해당 주기 3130nm는 관측 할려는 범위인 (1520~1580nm, 60nm)보다 훨씬 크기 때문에, 관측 구간 내에서는 하나의 dip만 관측될 것으로 예측이 됩니다.
 
 # **3.시뮬레이션 세팅**
